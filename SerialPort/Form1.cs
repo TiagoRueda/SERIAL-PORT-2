@@ -54,7 +54,7 @@ namespace SerialPortTest
             {
                 CBCom.Items.Add(s);
             }
-            CBCom.SelectedIndex = 1;
+            CBCom.SelectedIndex = 0;
 
             string[] BaudRate = { "4800", "9600", "19200", "38400", "57600", "115200" };
             foreach (string s in BaudRate)

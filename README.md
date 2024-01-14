@@ -2,6 +2,8 @@
 
 Este é um aplicativo simples de comunicação serial em C# usando Windows Forms. O aplicativo permite a comunicação com dispositivos via porta serial, fornecendo uma interface gráfica para enviar e receber dados em formato ASCII ou hexadecimal.
 
+![alt text](https://github.com/TiagoRueda/SERIAL-PORT-2/blob/main/SerialPort/SerialPort.png "SerialPort")
+
 # Recursos Principais:
 
 •	Escolha o formato (ASCII ou hexadecimal) no qual deseja enviar/receber os dados.
